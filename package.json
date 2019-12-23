@@ -1,12 +1,12 @@
 {
-  "name": "npm_scripts_static-ref",
+  "name": "design-system-bootstrap-ref",
   "version": "1.0.0",
   "description": "",
   "author": "Sathish Kumar Thiyagarajan",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/techatpark/npm_scripts_static-ref.git"
+    "url": "https://github.com/techatpark/design-system-bootstrap-ref.git"
   },
   "keywords": [
     "npm",
@@ -17,9 +17,9 @@
     "compress"
   ],
   "bugs": {
-    "url": "https://github.com/techatpark/npm_scripts_static-ref/issues"
+    "url": "https://github.com/techatpark/design-system-bootstrap-ref/issues"
   },
-  "homepage": "https://github.com/techatpark/npm_scripts_static-ref#readme",
+  "homepage": "https://github.com/techatpark/design-system-bootstrap-ref#readme",
   "main": "src/js/app.js",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
