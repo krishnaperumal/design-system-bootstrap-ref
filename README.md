@@ -1,5 +1,5 @@
-# NPM Scripts - Static Site
-Reference implementation for Static Sites/HTML Prototypes using NPM Scripts. 
+# Bootstrap based Design Systems
+Reference implementation for Design Systems using Bootstrap and NPM Scripts. 
 
 ### Setup
 
@@ -10,10 +10,6 @@ Ask NVM to use the appropriate node version
 To download the dependencies, we to to install node modules using
 
 > npm i
-
-To build the application
-
-> npm run build
 
 To watch the application on your local browser
 
